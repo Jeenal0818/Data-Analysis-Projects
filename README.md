@@ -1,4 +1,4 @@
-# 🚂 Trainty Data Analytics Portfolio
+#  Trainty Data Analytics Portfolio
 
 This repository contains a curated collection of data analytics projects completed during my training at **Trainty**. These projects reflect my journey through real-world business datasets, applying data analysis, visualization, and reporting techniques to uncover meaningful insights and drive informed decisions.
 
