@@ -17,7 +17,7 @@ This repository contains a curated collection of data analytics projects complet
 ## 📁 Access the Project Reports and Portfolio Website
 
 🔗 **[Click here to view the full folder of reports and dashboards](https://drive.google.com/drive/u/3/folders/1Wy37LZLmjzkHzJapXqnqkaBgHg0xny3l)** 
-🔗 **[Click here to view the Data Analyst Portfolio Website](index.html)** 
+🔗 **[Click here to view the Data Analyst Portfolio Website](http://127.0.0.1:3000/c:/Users/Dell/Downloads/resume/data analyst portfolio.html)** 
 
 ---
 
